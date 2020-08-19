@@ -1,0 +1,1 @@
+sudo xbps-install -S xorg-minimal xorg-fonts xorg-input-drivers setxkbmap xfce4 slim compton volumeicon network-manager-applet alsa-utils AlsaMixer.app bluez blueman udisks ntfs-3g udiskie udisks2 gvfs gvfs-afc gvfs-afp gvfs-cdda gvfs-gphoto2 gvfs-mtp gvfs-smb
